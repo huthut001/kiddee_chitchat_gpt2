@@ -8,7 +8,7 @@ Original file is located at
 """
 
 
-token = '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'
+token = '<your_token>'
 
 # import the relavant libraries for loggin in
 from huggingface_hub import HfApi, HfFolder
